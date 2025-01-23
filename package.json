@@ -1,0 +1,22 @@
+{
+  "name": "rev",
+  "version": "1.0.0",
+  "description": "The worlds best Nuke bot",
+  "main": "rev.js",
+  "scripts": {
+    "test": ",n1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonkDeveper/Funbot.git"
+  },
+  "keywords": [
+    "nuker"
+  ],
+  "author": "timeflysmonk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MonkDeveper/Funbot/issues"
+  },
+  "homepage": "https://github.com/MonkDeveper/Funbot#readme"
+}
