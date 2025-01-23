@@ -1,17 +1,20 @@
 {
   "name": "rev",
   "version": "1.0.0",
-  "description": "The worlds best Nuke bot",
+  "description": "The world's best Nuke bot",
   "main": "rev.js",
+  "type": "module",
   "scripts": {
-    "test": ",n1"
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MonkDeveper/Funbot.git"
+    "url": "https://github.com/MonkDeveper/Funbot.git"
   },
   "keywords": [
-    "nuker"
+    "nuker",
+    "discord",
+    "bot"
   ],
   "author": "timeflysmonk",
   "license": "MIT",
