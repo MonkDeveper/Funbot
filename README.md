@@ -14,12 +14,12 @@ Revenge Bot is a powerful, secretive Discord bot designed for education and demo
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MonkDeveper/Funbot.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd revenge-bot
+   cd Funbot
    ```
 
 3. Install the required dependencies:
@@ -64,3 +64,4 @@ This project is licensed under the [MIT License](LICENSE). However, the followin
 
 For questions or issues, please open an issue in this repository or contact the original developer.
 
+Discord - @timeflysmonk
